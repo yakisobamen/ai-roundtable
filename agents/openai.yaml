@@ -1,0 +1,8 @@
+interface:
+  display_name: "AI円卓会議"
+  short_description: "10ペルソナで議論し結論をまとめる"
+  brand_color: "#2563EB"
+  default_prompt: "Use $ai-roundtable to discuss this decision from ten personas and synthesize a practical conclusion."
+
+policy:
+  allow_implicit_invocation: true
